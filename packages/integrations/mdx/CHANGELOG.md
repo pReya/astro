@@ -1,5 +1,11 @@
 # @astrojs/mdx
 
+## 0.10.1
+
+### Patch Changes
+
+- [#4428](https://github.com/withastro/astro/pull/4428) [`a2414bf59`](https://github.com/withastro/astro/commit/a2414bf59e2e2cd633aece68e724401c4ad281b9) Thanks [@bholmesdev](https://github.com/bholmesdev)! - Fix dev server reload performance when globbing from an MDX layout
+
 ## 0.10.0
 
 ### Minor Changes
